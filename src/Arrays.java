@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Arrays {
     public static void main(String[] args) {
+
         Scanner userInput = new Scanner(System.in);
         ArrayList<Integer> numbers = new ArrayList<>();
 
