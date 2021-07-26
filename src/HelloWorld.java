@@ -251,8 +251,5 @@ public class HelloWorld {
 //        // String literals are concatenated by the compiler yet the results are not seen as the same object.
 //        "Hello World" == "Hello " + "World"; // --> false
 
-
-
-
     }
         }
