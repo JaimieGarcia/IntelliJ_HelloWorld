@@ -46,5 +46,6 @@ public class Arrays {
         System.out.printf("The product is %s \n", product);
         System.out.printf("The largest number is %s \n", max);
         System.out.printf("The smallest number is %s \n", min);
+
     }
 }
