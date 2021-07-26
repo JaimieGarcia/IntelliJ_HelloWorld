@@ -20,7 +20,6 @@ public class Arrays {
         }
         System.out.println(sum);
 
-
         // Product of array list
         long product = 1;
         for (int i = 0; i<numbers.size(); i++) {
@@ -47,7 +46,5 @@ public class Arrays {
         System.out.printf("The product is %s \n", product);
         System.out.printf("The largest number is %s \n", max);
         System.out.printf("The smallest number is %s \n", min);
-
-
     }
 }
